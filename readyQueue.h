@@ -31,7 +31,9 @@ namespace ReadyQueueNS{
             // ~ReadyQueue();
 
             void PrintReadyQueue();
-            vector<int> VectorReadyQueue();
+            // vector<int> VectorReadyQueue();
+            vector<long> VectorReadyQueue();
+
 
             void InsertProcess(Process process);
             Process PopProcess();

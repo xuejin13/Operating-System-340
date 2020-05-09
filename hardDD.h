@@ -1,7 +1,11 @@
+/*
+    Xuejin Gao
+    Pavel Shostak
+    Operation System 340
+*/
 
 #include "readyQueue.h"
 
-// #include 
 
 using namespace std;
 using namespace ProcessNS;

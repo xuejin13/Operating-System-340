@@ -1,4 +1,8 @@
-
+/*
+    Xuejin Gao
+    Pavel Shostak
+    Operation System 340
+*/
 
 #include "hardDD.h"
 

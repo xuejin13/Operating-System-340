@@ -22,8 +22,15 @@ namespace ReadyQueueNS{
         }
     }
 
-    vector<int> ReadyQueue::VectorReadyQueue(){
-        vector<int> arr;
+    // vector<int> ReadyQueue::VectorReadyQueue(){
+    //     vector<int> arr;
+    //     for(auto& processUnit : deq){
+    //         arr.push_back(processUnit.GetId());
+    //     }
+    //     return arr;
+    // }
+    vector<long> ReadyQueue::VectorReadyQueue(){
+        vector<long> arr;
         for(auto& processUnit : deq){
             arr.push_back(processUnit.GetId());
         }
