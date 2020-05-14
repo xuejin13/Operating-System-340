@@ -15,4 +15,3 @@ Steps to run this project:
 	
 This project simulates some aspects of operating system with two different priority ready queues, I/O device management, and memory management.
 
-//	This repository is all missing a file that runs the whole program that glues it together
