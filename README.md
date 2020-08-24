@@ -1,6 +1,6 @@
 
 # Operating System Simulator
-Terminal project simulates aspects of operating system with two different priority ready queues using Round Robin, I/O device management, 
+CLI project simulates aspects of operating system with two different priority ready queues using Round Robin, I/O device management, 
 and memory management using **C++**. 
 
 #### Comments 
