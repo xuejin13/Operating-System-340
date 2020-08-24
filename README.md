@@ -18,8 +18,8 @@ Inputs that are parsed incorrectly are handled however it does not **check if th
 
 ### Commands:
 ```
-- A <int>	// Ex: A 30  ; A tells the OS its a common process with a mem size 30 bytes.
-- AR <int>	// Ex: AR 30 ; AR tells the OS its a real-time process with a mem size 30 bytes.
+- A <long>	// Ex: A 30  ; A tells the OS its a common process with a mem size 30 bytes.
+- AR <long>	// Ex: AR 30 ; AR tells the OS its a real-time process with a mem size 30 bytes.
 - Q		// Ex: Q     ; Q tells the OS the time slice is up and its the next process' turn.
 - t		// Ex: t     ; t tells OS that the running process is done/terminating.
 - d <int>	// Ex: d 3   ; d tells the OS the current running process is requesting the I/O device #3.
